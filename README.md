@@ -12,7 +12,7 @@
 
 
 
-![ShambuKumar's Stats](https://github-readme-stats.vercel.app/api?username=ShambuKumar&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![ShambuKumar's Stats](https://github-readme-stats.vercel.app/api?username=ShambuKumar&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 ![ShambuKumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShambuKumar&theme=gruvbox&hide_border=true)
 ![ShambuKumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShambuKumar&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
