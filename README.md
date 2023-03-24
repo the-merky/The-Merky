@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CHAI, a chess engine in C++!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust🦀
 - 💬 Ask me about: My projects!
 - 📫 How to reach me: kumarshambu2010@gmail.com
 - 😄 Pronouns: he/him
@@ -9,7 +9,7 @@
 
 
 
-My stats 📊
+📊My stats
 
 
 ![ShambuKumar's Stats](https://github-readme-stats.vercel.app/api?username=ShambuKumar&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
