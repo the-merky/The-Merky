@@ -1,4 +1,6 @@
 # Hey there 👋
+![Profile Pic](profile-pic_scaled_64x_pngcrushed.png)
+
 
 ## About Me
 ###
