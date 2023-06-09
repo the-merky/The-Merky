@@ -1,4 +1,4 @@
-### Hey there 👋
+# Hey there 👋
 
 ## About Me
 - 🔭 I’m currently working on CHAI, a chess engine in C++!
