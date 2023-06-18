@@ -4,7 +4,7 @@
 
 ## About Me
 ###
-- 🔭 I’m currently working on CHAI, a chess engine in C++!
+- 🔭 I’m currently working on Aurora, a chess engine in C++!
 - 🌱 I’m currently learning Rust🦀
 - 💬 Ask me about: My projects!
 - 📫 How to reach me: kumarshambu2010@gmail.com
