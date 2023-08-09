@@ -4,9 +4,9 @@
 ## About Me
 ###
 - 🔭 I’m currently working on Aurora, a chess engine in C++!
-- 🌱 I’m currently learning Rust🦀
+- 🌱 I’m currently learning to use JSX
 - 💬 Ask me about: My projects!
-- 📫 How to reach me: kumarshambu2010@gmail.com
+- 📫 How to reach me: work@merky.dev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play piano and use Arch btw
 ###
