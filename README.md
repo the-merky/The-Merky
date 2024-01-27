@@ -3,12 +3,12 @@
 
 ## About Me
 ###
-- 🔭 I’m currently working on Aurora, a chess engine in C++!
+- 🔭 I’m currently working on learning Rust and Machine Learning
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about: My projects!
+- 💬 Ask me about: My projects
 - 📫 How to reach me: work@merky.dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play piano and use Nixos btw
+- ⚡ Fun fact: I play piano and use NixOs btw
 ###
 
 ## 📊My stats
