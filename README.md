@@ -17,5 +17,10 @@
 # ![ShambuKumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Merky&theme=gruvbox&hide_border=true)
 # ![ShambuKumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Merky&theme=gruvbox&show_icons=true&hide_border=true&)
 <!--START_SECTION:waka-->
+
+```txt
+Rust   1 hr            █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
